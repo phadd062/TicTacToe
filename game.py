@@ -25,7 +25,6 @@ def user_choice():
 					return choice		
 		print("Try again!")
 
-
 row1 = [' ', ' ', ' ']
 row2 = [' ', ' ', ' ']
 row3 = [' ', ' ', ' ']
